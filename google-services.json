@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749498091331",
+    "project_id": "mobile-app-3a156",
+    "storage_bucket": "mobile-app-3a156.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749498091331:android:8b1e8e047ee1c3200691f6",
+        "android_client_info": {
+          "package_name": "com.company.alistair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVk98Xzep8YAjz7No4wJ54uHDuRhDMqZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
